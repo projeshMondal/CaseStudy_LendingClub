@@ -35,27 +35,41 @@ The given data contains information about past loan applicants and whether they 
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Customer living in Rent and loan amount less than 15K are highly like to default
+- Debt consolidation has the highest number of defaulters. But percentage of defaulters are highest for small businesses.
+- Customer opting loan for Credit card and debt consolidation has higher dti value, hence more porbable to default.
+- Different loan purpose had different interest date distribution. The interest rate of small businesses being the maximum
+- Not verified customers are actually more likely to default.
+- Customer opting for 60 months term are more likely to default.
+- Percentage of defaulters increase with increase in debt to income ratio (dti)
+- Higher dti value customers have probublity of defaulting more even if customer has good Grades
+- Percentage of defaulters decreases with increasing annual income.
+- Customers with employment period more than 10 years are taking most of the loans for Debt consolidation and are also the highest contributer in small business by a good margin
+- Percentage of defaulters increase with increase in interest rate.
+- Customer living in Rent and loan amount less than 15K are highly like to default
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 3.7.6
+- NumPy - version 1.18.1
+- Pandas - version 1.2.3
+- Matplotlib - version 3.1.3
+- Seaborn - version 0.10.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
 - This project was created as a case study required for Executive PG Programme in Machine Learning & AI - IIIT, Bangalore
-- This project was inspired by...
-- References if any...
 - This project was based on UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform [this tutorial](https://www.example.com).
+
+Prepared by:
+
+Projesh Kumar Mondal
+Rajesh Kumar Nakka
 
 
 ## Contact
